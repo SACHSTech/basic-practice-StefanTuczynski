@@ -14,6 +14,6 @@ people = int(input("Amount of people needed to be served: "))
 ml = (oz * 29.5735)
 
 #Final calculations for milliters required
-ml_required = round(ml, 0) * people
+ml_required = ml * people
 print ("You will need " + str(ml_required) + "ml to feed " + str(people))
 print("--- Thank you for using our converter! ---")
