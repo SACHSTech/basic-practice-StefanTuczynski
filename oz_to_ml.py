@@ -1,7 +1,9 @@
 """
 Name: oz_to_ml.pz
 Purpose: To calculate the amount of ml required to feed people being given ounces
-Creator: Stefan Tuczynski
+
+Author: Stefan Tuczynski
+
 Date: 02/12/2020
 """
 
