@@ -1,7 +1,9 @@
 """
 Name: avg_marks.py
 Purpose: To calculate the total average between 4 course averages
-Creator: Stefan Tuczynski
+
+Athor: Stefan Tuczynski
+
 Date: 02/12/2020
 """
 
