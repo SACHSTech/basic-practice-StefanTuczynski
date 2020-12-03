@@ -7,7 +7,7 @@ Author: Tuczynski.S
 Date:   02/12/2020
 """
 
-#User input lines
+#input user data
 print("--- Welcome to the Onces to Millileter converter ---")
 oz = float(input("Amount of onces: "))
 people = int(input("Amount of people needed to be served: "))
