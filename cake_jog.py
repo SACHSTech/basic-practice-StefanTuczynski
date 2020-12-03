@@ -4,7 +4,7 @@ Purpose: To calculate how many km you have to jog to burn off a specified amount
 
 Author: Stefan Tuczynski
 
-Date: 03/12/2020
+Date: 02/12/2020
 """
 
 #Asks user how many pieces of cake did he/she eat
