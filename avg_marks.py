@@ -1,0 +1,5 @@
+Course_One = int(input("Course One: "))
+Course_Two = int(input("Course Two: "))
+Course_Three = int(input("Course Three: "))
+Course_Four = int(input("Course Four :"))
+print("Average: " + str((Course_One + Course_Two + Course_Three + Course_Four) / 4) + "%")
