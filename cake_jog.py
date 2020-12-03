@@ -1,10 +1,10 @@
 """
-Name: cake_jog.py
+Name:   cake_jog.py
 Purpose: To calculate how many km you have to jog to burn off a specified amount of cake
 
-Author: Stefan Tuczynski
+Author: Tuczynski.S
 
-Date: 02/12/2020
+Date:   02/12/2020
 """
 
 #Asks user how many pieces of cake did he/she eat
