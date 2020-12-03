@@ -1,10 +1,10 @@
 """
-Name: avg_marks.py
+Name:   avg_marks.py
 Purpose: To calculate the total average between 4 course averages
 
-Author: Stefan Tuczynski
+Author: Tuczynski.S
 
-Date: 02/12/2020
+Date:  02/12/2020
 """
 
 #These lines takes the users four course's average
