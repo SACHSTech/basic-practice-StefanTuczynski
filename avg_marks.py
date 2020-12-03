@@ -7,7 +7,7 @@ Athor: Stefan Tuczynski
 Date: 02/12/2020
 """
 
-#These lines takes the users 4 course's average
+#These lines takes the users four course's average
 Course_One = int(input("Course One Average: "))
 Course_Two = int(input("Course Two Average: "))
 Course_Three = int(input("Course Three Average: "))
